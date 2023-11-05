@@ -10,5 +10,10 @@ DOMAIN 对应的 secret 是你的misskey站点地址，比如nya.one
 MKTOKEN 对应的 secret 是你的token
 ![image](https://github.com/dbdowjfb/misskey-purger/assets/111195758/cf86f2be-9e18-4c52-8a03-8bfd47acff61)
 
+然后点进 
+![image](https://github.com/dbdowjfb/misskey-purger/assets/111195758/7f01b0c9-0cba-4c53-a12b-2415ccdf5ec8)
+运行
+
+
 
 
