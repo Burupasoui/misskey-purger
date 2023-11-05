@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         
-      
+
       - name: Set up Python   
         uses: actions/setup-python@v4
         with:
@@ -33,9 +33,10 @@ jobs:
           pip install -r ./requirements.txt
       - name: run script
         
-        env: 
-          mktoken : ${{ secrets.mktoken }}
-          mkdomain : ${{ secrets.domain }}
+        
         run: |
           python DEL.py
-       
+        env: 
+          mktoken : ${{ secrets.MKTOKEN }}
+          DOMAIN : ${{ secrets.DOMAIN }}
+      
