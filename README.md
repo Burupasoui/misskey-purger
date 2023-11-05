@@ -1,5 +1,7 @@
 # 删掉3个月前的misskey发文
 
+先fork。然后点击头像，在 ![image](https://github.com/dbdowjfb/misskey-purger/assets/111195758/542bbcd3-e07a-491a-8f2f-6b5a66c91515) 里找到相同名字的仓库。
+
 
 点进在 Settings > Secrets and variables > Actions 里面。 点 New repository secret.
 ![image](https://github.com/dbdowjfb/misskey-purger/assets/111195758/e0b51062-e80e-4a62-a20d-fb4dd94919f6)
