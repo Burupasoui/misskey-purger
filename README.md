@@ -14,7 +14,9 @@ MKTOKEN 对应的 secret 是你的token
 
 然后点进 
 ![image](https://github.com/dbdowjfb/misskey-purger/assets/111195758/7f01b0c9-0cba-4c53-a12b-2415ccdf5ec8)
-授权运行
+。
+
+最后，授权运行。
 
 
 
