@@ -7,7 +7,7 @@ import datetime
 import time
 
 # get environment variables
-token = os.environ['TOKEN']
+token = os.environ['mktoken']
 domain = os.environ['DOMAIN']
 
 mk = Misskey(domain, i=token)
